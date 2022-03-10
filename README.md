@@ -91,10 +91,10 @@
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tharunShankar&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunShankar&theme=gruvbox&hide_border=true" />
+  <img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=tharunShankar&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="33.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunShankar&theme=gruvbox&hide_border=true" />
   </a>
-   <img width="49.5%"  height="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunShankar&show_icons=true&theme=gruvbox&hide_border=true" />
+   <img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunShankar&show_icons=true&theme=gruvbox&hide_border=true" />
    
 </p>
 <br>
