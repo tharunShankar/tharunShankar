@@ -69,5 +69,16 @@
      <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
    </kbd>
 
+<br>
+
+### Talking about Personal Stuffs: 
+
+- 🌀 &nbsp; How do you wake up from the matrix, <br> 
+     &nbsp; &nbsp; &nbsp; &nbsp; when you don't know you're in the matrix?<br>
+- 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
+- 📫 &nbsp; How to reach me: [e-mail](mailto:tharunshankar1101@gmail.com) <br>
+- 📝 See my <a href="https://drive.google.com/file/d/18QBxBQjXd62piwgu-P1k-jxRPvAmJr_j/view?usp=sharing">Resume</a> to get more info.</br></h6>.
+
+<br>
 
 
