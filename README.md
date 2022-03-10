@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun Shankar</h1>
 
-<p>
-  align="centre">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Science+Enthusiast;I'm+a+Computer+Science+engineer" /></a>
-</p>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+Github+Profile!!+%F0%9F%91%8B;Computer+Science+Student;Data+Science+Enthusiast"/>
+    </div>
