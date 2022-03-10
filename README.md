@@ -88,13 +88,16 @@
 
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=tharunShankar&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="33.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunShankar&theme=gruvbox&hide_border=true" />
-  </a>
-   <img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunShankar&show_icons=true&theme=gruvbox&hide_border=true" />
-   
-</p>
+<details open>
+ <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=tharunShankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tharunShankar&hide=TeX,HTML,Makefile,C,CSS&theme=tokyonight&langs_count=3">
+</p>
+</details>
+
+<details>	
+  <summary><b>⚡ Github Streaks:</b></summary>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunShankar&hide_border=true" />
+</details>
