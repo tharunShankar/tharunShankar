@@ -58,7 +58,7 @@
        <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="bs" width="30" height="30"/> </a>   
  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a>
   </kbd>     
-  <kbd>
+  <!-- <kbd>
      <kbd>Tools</kbd>
      <br>
      <br>
@@ -67,7 +67,7 @@
      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
      <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
-   </kbd> 
+   </kbd> -->
 
 <br>
      
