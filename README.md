@@ -5,7 +5,11 @@
     </div>
 
 
-
+<p align="center">
+  <code>
+  I'm Tharun Shankar, an adept learner 💡 exploring the depths of technology. I am a final year undergrad 🎓, majoring in Computer Science and Engineering (CSE). I'm particularly dedicated in the domain of <strong> Data Science </strong> , <strong> Machine Learning </strong>, and Deep Learning.
+  </code>
+</p>
 
 
 
