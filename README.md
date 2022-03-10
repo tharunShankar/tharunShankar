@@ -77,7 +77,7 @@
      &nbsp; &nbsp; &nbsp; &nbsp; when you don't know you're in the matrix?<br>
 - 🛠 &nbsp; Open for collaboration in Data Science and Deep Learning. <br>
 - 📫 &nbsp; How to reach me: [e-mail](mailto:tharunshankar1101@gmail.com) <br>
-- 📝 See my <a href="https://drive.google.com/file/d/18QBxBQjXd62piwgu-P1k-jxRPvAmJr_j/view?usp=sharing">Resume</a> to get more info.</br></h6>.
+- 📝 &nbsp; See my <a href="https://drive.google.com/file/d/18QBxBQjXd62piwgu-P1k-jxRPvAmJr_j/view?usp=sharing">Resume</a> to get more info.</br></h6>.
 
 <br>
 
