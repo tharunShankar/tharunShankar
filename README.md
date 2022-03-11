@@ -97,6 +97,6 @@
 
 <details>	
   <summary><b>⚡ Github Streaks:</b></summary>
-  <br> align = "center">
+  <br>
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunShankar&theme=tokyonight&hide_border=false" />
 </details>
