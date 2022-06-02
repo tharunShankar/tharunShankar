@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Tharun 👋</h1>
+<h1 align="center"> Hi! I'm Tharun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <div align=center>
      <img src="https://readme-typing-svg.herokuapp.com &font=IBM+Plex+Sans&color=abcdef&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+Github+Profile!!"/>
